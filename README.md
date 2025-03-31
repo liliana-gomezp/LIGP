@@ -13,3 +13,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 Cambio para commit
 Cambio para commit QA
 Implementar la interfaz de registro
+Diseño de base de datos para usuarios TaskJira102
